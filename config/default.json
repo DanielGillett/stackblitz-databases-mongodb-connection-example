@@ -1,0 +1,6 @@
+{
+  "db": {
+    "cluster": "linkedin-cluster0.p10ag.mongodb.net",
+    "options": "retryWrites=true&w=majority&appName=linkedin-cluster0"
+  }
+}
